@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="1152px" height="1536px"
+xml:space="preserve">
+<g id="25" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#000000;fill-opacity:1" d="M128,512L128 1024L0 1024L0 512L128 512" />
+<path style="fill:#000000;fill-opacity:1" d="M128,1024L128 1536L0 1536L0 1024L128 1024" />
+<path style="fill:#000000;fill-opacity:1" d="M128,0L128 512L0 512L0 0L128 0" />
+<path style="fill:#000000;fill-opacity:1" d="M384,512L384 1024L256 1024L256 512L384 512" />
+<path style="fill:#000000;fill-opacity:1" d="M384,1024L384 1536L256 1536L256 1024L384 1024" />
+<path style="fill:#000000;fill-opacity:1" d="M384,0L384 512L256 512L256 0L384 0" />
+<path style="fill:#000000;fill-opacity:1" d="M640,512L640 1024L512 1024L512 512L640 512" />
+<path style="fill:#000000;fill-opacity:1" d="M640,1024L640 1536L512 1536L512 1024L640 1024" />
+<path style="fill:#000000;fill-opacity:1" d="M640,0L640 512L512 512L512 0L640 0" />
+<path style="fill:#000000;fill-opacity:1" d="M896,512L896 1024L768 1024L768 512L896 512" />
+<path style="fill:#000000;fill-opacity:1" d="M896,1024L896 1536L768 1536L768 1024L896 1024" />
+<path style="fill:#000000;fill-opacity:1" d="M896,0L896 512L768 512L768 0L896 0" />
+<path style="fill:#000000;fill-opacity:1" d="M1152,512L1152 1024L1024 1024L1024 512L1152 512" />
+<path style="fill:#000000;fill-opacity:1" d="M1152,1024L1152 1536L1024 1536L1024 1024L1152 1024" />
+<path style="fill:#000000;fill-opacity:1" d="M1152,0L1152 512L1024 512L1024 0L1152 0" />
+</g>
+</svg>

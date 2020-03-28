@@ -1,0 +1,1 @@
+﻿<p align="center"><font face="$Font2" size="1" color="#00cc33" letterSpacing="-0.500000" kerning="1">¦</font></p>

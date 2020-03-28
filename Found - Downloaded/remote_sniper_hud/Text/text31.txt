@@ -1,0 +1,1 @@
+﻿<p align="left"><font face="$Font2" size="16" color="#387f9b" letterSpacing="0.000000" kerning="1">Wind Dir</font></p>

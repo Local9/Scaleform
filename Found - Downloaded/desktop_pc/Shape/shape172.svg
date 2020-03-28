@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="23px" height="20px"
+xml:space="preserve">
+<g id="1297" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#323232;fill-opacity:1" d="M0,12L0 10L23 10L23 12L0 12" />
+<path style="fill:#3C3C3C;fill-opacity:1" d="M23,6L23 8L0 8L0 6L23 6" />
+<path style="fill:#404040;fill-opacity:1" d="M0,6L0 4L23 4L23 6L0 6" />
+<path style="fill:#4A4A4A;fill-opacity:1" d="M0,1.4Q0.05 0 1.45 0L21.55 0Q23 0 23 1.45L23 2L0 2L0 1.4" />
+<path style="fill:#454545;fill-opacity:1" d="M0,4L0 2L23 2L23 4L0 4" />
+<path style="fill:#373737;fill-opacity:1" d="M0,10L0 8L23 8L23 10L0 10" />
+<path style="fill:#292929;fill-opacity:1" d="M23,14L23 16L0 16L0 14L23 14" />
+<path style="fill:#242424;fill-opacity:1" d="M23,16L23 17.9L0 17.9L0 16L23 16" />
+<path style="fill:#202020;fill-opacity:1" d="M23,17.9L23 18.4Q23 19.85 21.55 19.85L1.45 19.85Q0 19.85 0 18.4L0 17.9L23 17.9" />
+<path style="fill:#2E2E2E;fill-opacity:1" d="M0,14L0 12L23 12L23 14L0 14" />
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FFFFFF;stroke-opacity:1" d="M6.3,15.05L11.5 9.9M16.65,4.7L11.5 9.9" />
+<path style="fill:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FFFFFF;stroke-opacity:1" d="M11.5,9.9L6.3 4.7M11.5,9.9L16.65 15.05" />
+</g>
+</svg>

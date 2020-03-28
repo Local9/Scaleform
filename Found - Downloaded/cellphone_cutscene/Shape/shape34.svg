@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="256px" height="344px"
+xml:space="preserve">
+<g id="348" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#000000;fill-opacity:1" d="M0,0L256 0L256 344L0 344L0 0" />
+<path style="fill:#000000;fill-opacity:1" d="M207,57.95L74.95 57.95L74.95 37.95L207 37.95L207 57.95" />
+<path style="fill:#000000;fill-opacity:1" d="M148,89.75L78 89.75L78 66.75L148 66.75L148 89.75" />
+<path style="fill:#000000;fill-opacity:1" d="M69,35L69 99L5 99L5 35L69 35" />
+</g>
+</svg>

@@ -1,0 +1,13 @@
+﻿<flash_project name="~custom_warning_screen" version="1">
+	<project_file path="./~custom_warning_screen.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/BaseScriptUI.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/core/BaseScreenLayout.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/utils/DisplayConfig.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/game/GameInterface.as" filetype="as"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/INSTRUCTIONAL_BUTTONS.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/utils/HudColour.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/utils/Colour.as" filetype="as"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/CUSTOM_WARNING_SCREEN.as" filetype="as"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/WarningScreenList.as" filetype="as"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/WarningScreenListItem.as" filetype="as"/>
+</flash_project>

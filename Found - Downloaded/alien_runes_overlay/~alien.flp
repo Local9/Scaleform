@@ -1,0 +1,15 @@
+﻿<flash_project name="~alien" version="1">
+	<project_file path="./~alien.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/BaseScriptUI.as" filetype="as"/>
+	<project_file path="./com/rockstargames/gtav/levelDesign/ALIEN_RUNES_OVERLAY.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/TweenStarLite.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Linear.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Quad.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Cubic.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Quart.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Sine.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Back.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/easing/Circ.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/Ease.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/tweenStar/TweenStarLiteRef.as" filetype="as"/>
+</flash_project>

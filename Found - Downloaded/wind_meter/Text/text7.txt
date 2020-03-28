@@ -1,0 +1,1 @@
+﻿<p align="center"><font face="$Font2" size="11" color="#dddddd" letterSpacing="0.000000" kerning="1">Wind</font></p>

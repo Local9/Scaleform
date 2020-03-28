@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="760px" height="440px"
+xml:space="preserve">
+<g id="587" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#000000;fill-opacity:1" d="M710.15,233.55L710.15 225.05L760 225.05L760 233.55L710.15 233.55" />
+<path style="fill:#000000;fill-opacity:1" d="M710.15,225.05L710.15 205.6L760 205.6L760 225.05L710.15 225.05" />
+<path style="fill:#000000;fill-opacity:1" d="M552.45,393.15L710.15 393.15L710.15 233.55L760 233.55L760 439.15L552.45 439.15L552.45 393.15" />
+<path style="fill:#000000;fill-opacity:1" d="M552.45,0L760 0L760 205.6L710.15 205.6L710.15 46L552.45 46L552.45 0" />
+<path style="fill:#000000;fill-opacity:1" d="M372.95,0L552.45 0L552.45 46L372.95 46L372.95 0" />
+<path style="fill:#000000;fill-opacity:1" d="M207.55,0L372.95 0L372.95 46L207.55 46L207.55 0" />
+<path style="fill:#000000;fill-opacity:1" d="M372.95,393.15L552.45 393.15L552.45 439.15L372.95 439.15L372.95 393.15" />
+<path style="fill:#000000;fill-opacity:1" d="M0,205.6L0 0L207.55 0L207.55 46L49 46L49 205.6L0 205.6" />
+<path style="fill:#000000;fill-opacity:1" d="M0,233.55L0 225.05L49 225.05L49 233.55L0 233.55" />
+<path style="fill:#000000;fill-opacity:1" d="M0,225.05L0 205.6L49 205.6L49 225.05L0 225.05" />
+<path style="fill:#000000;fill-opacity:1" d="M207.55,439.15L0 439.15L0 233.55L49 233.55L49 393.15L207.55 393.15L207.55 439.15" />
+<path style="fill:#000000;fill-opacity:1" d="M207.55,393.15L372.95 393.15L372.95 439.15L207.55 439.15L207.55 393.15" />
+</g>
+</svg>

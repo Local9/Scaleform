@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="1280px" height="720px"
+xml:space="preserve">
+<g id="2008" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#000000;fill-opacity:1" d="M867.4,132.55Q773.2 38.35 640 38.35Q506.8 38.35 412.55 132.55Q318.35 226.75 318.35 360Q318.35 493.2 412.55 587.4Q506.8 681.65 640 681.65Q773.2 681.65 867.4 587.4Q961.65 493.2 961.65 360Q961.65 226.75 867.4 132.55M1280,720L0 720L0 0L1280 0L1280 720" />
+<radialGradient
+id="RadialGradID_77" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.435822, 0, 0, 0.435822, 640, 360)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.592157"  style="stop-color:#000000;stop-opacity:0" />
+<stop  offset="1"  style="stop-color:#000000;stop-opacity:0.8" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_77) " d="M961.65,360Q961.65 493.2 867.4 587.4Q773.2 681.65 640 681.65Q506.8 681.65 412.55 587.4Q318.35 493.2 318.35 360Q318.35 226.75 412.55 132.55Q506.8 38.35 640 38.35Q773.2 38.35 867.4 132.55Q961.65 226.75 961.65 360" />
+</g>
+</svg>

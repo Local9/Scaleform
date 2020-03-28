@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="1280px" height="721px"
+xml:space="preserve">
+<g id="15" transform="matrix(1, 0, 0, 1, 0, 0)">
+<linearGradient
+id="LinearGradID_1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000213623, 0.441147, -0.439133, 0.000213623, 640, 360)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#000000;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#505050;stop-opacity:0.698039" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1) " d="M1280,720.05L0 720.05L0 0L1280 0L1280 720.05" />
+</g>
+</svg>

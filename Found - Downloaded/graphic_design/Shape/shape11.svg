@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="455px" height="204px"
+xml:space="preserve">
+<g id="1137" transform="matrix(1, 0, 0, 1, -416.6, -249.6)">
+<path style="fill:#000000;fill-opacity:1" d="M701.4,358.4L592.6 358.4L592.6 249.6L701.4 249.6L701.4 358.4" />
+<path style="fill:#000000;fill-opacity:1" d="M699,450.95L591.05 450.95L591.05 343L699 343L699 450.95" />
+<path style="fill:#000000;fill-opacity:1" d="M762.6,249.6L871.4 249.6L871.4 358.4L762.6 358.4L762.6 249.6" />
+<path style="fill:#000000;fill-opacity:1" d="M870.95,343L870.95 450.95L763 450.95L763 343L870.95 343" />
+<path style="fill:#000000;fill-opacity:1" d="M416.6,249.6L525.4 249.6L525.4 358.4L416.6 358.4L416.6 249.6" />
+<path style="fill:#000000;fill-opacity:1" d="M525,345L525 453L417 453L417 345L525 345" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FF0000;stroke-opacity:1" d="M424.45,256.9L516.45 256.9L516.45 348.9L424.45 348.9L424.45 256.9z" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#FF0000;stroke-opacity:1" d="M516.45,348.9L516.45 440.9L424.45 440.9L424.45 348.9L516.45 348.9z" />
+</g>
+</svg>

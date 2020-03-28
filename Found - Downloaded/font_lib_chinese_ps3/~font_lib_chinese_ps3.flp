@@ -1,0 +1,6 @@
+﻿<flash_project name="~font_lib_chinese_ps3" version="1">
+	<project_file path="./~font_lib_chinese_ps3.fla" filetype="fla" profile="" def_file="true"/>
+	<project_file path="./com/rockstargames/gtav/Multiplayer/CREW_TAG_MOVIECLIP.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/utils/Debug.as" filetype="as"/>
+	<project_file path="./com/rockstargames/ui/game/GameInterface.as" filetype="as"/>
+</flash_project>

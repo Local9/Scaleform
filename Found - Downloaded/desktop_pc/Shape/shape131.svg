@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:author="http://www.sothink.com"
+width="256px" height="256px"
+xml:space="preserve">
+<g id="1286" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#000000;fill-opacity:1" d="M256,212L256 248L0 248L0 212L256 212M0,40L0 0L256 0L256 40L0 40M103,218L103 242L106 242L106 218L103 218M11.1,238.3L37.65 238.3L37.65 221.9L11.1 221.9L11.1 238.3" />
+<path style="fill:#000000;fill-opacity:1" d="M0,194L0 42L256 42L256 194L0 194" />
+<path style="fill:#000000;fill-opacity:1" d="M0,212L0 194L256 194L256 212L0 212" />
+<path style="fill:#CC0606;fill-opacity:1" d="M0,42L0 40L256 40L256 42L0 42M256,248L256 256L0 256L0 248L256 248M106,218L106 242L103 242L103 218L106 218M20.1,229.8L24.4 233Q26.2 231.55 27.95 230.05L36.3 237.5L12.4 237.5L20.1 229.8M19.5,229.3L11.85 236.95L11.85 223.1L19.5 229.3M36.9,237L28.8 229.6L36.9 223L36.9 237M12.6,222.6L36.2 222.6L24.4 231.9L12.6 222.6" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M12.4,237.5L36.3 237.5L27.95 230.05Q26.2 231.55 24.4 233L20.1 229.8L12.4 237.5M11.85,223.1L11.85 236.95L19.5 229.3L11.85 223.1M36.9,223L28.8 229.6L36.9 237L36.9 223M24.4,231.9L36.2 222.6L12.6 222.6L24.4 231.9M11.1,221.9L37.65 221.9L37.65 238.3L11.1 238.3L11.1 221.9" />
+<path style="fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#999999;stroke-opacity:1" d="M163.5,80.5Q163.5 74.5 157.5 74.5L89.5 74.5Q83.5 74.5 83.5 80.5L83.5 148.5Q83.5 154.5 89.5 154.5L157.5 154.5Q163.5 154.5 163.5 148.5L163.5 80.5z" />
+<path style="fill:#000000;fill-opacity:0.498039" d="M163.5,148.5Q163.5 154.5 157.5 154.5L89.5 154.5Q83.5 154.5 83.5 148.5L83.5 80.5Q83.5 74.5 89.5 74.5L157.5 74.5Q163.5 74.5 163.5 80.5L163.5 148.5" />
+</g>
+</svg>
